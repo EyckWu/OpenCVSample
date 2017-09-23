@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OpenCVDemo</string>
+    <string name="learning_opencv">快速上手OpenCV</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:icon="@drawable/menu_home"
+            android:id="@+id/recomment_main"
+            android:title="@string/learning_opencv"/>
+
+        <item
+            android:icon="@drawable/menu_home"
+            android:id="@+id/msg_main"
+            android:title="快速上手OpenCV"/>
+
+        <item
+            android:icon="@drawable/menu_home"
+            android:id="@+id/favorite_main"
+            android:title="快速上手OpenCV"/>
+
+        <item
+            android:icon="@drawable/menu_home"
+            android:id="@+id/stusys_main"
+            android:title="快速上手OpenCV"/>
+
+    </group>
+
+    <!--<item-->
+    <!--android:icon="@drawable/ic_receipt_grey"-->
+    <!--android:id="@+id/setting_main"-->
+    <!--android:title="@string/setting"/>-->
+
+</menu>
